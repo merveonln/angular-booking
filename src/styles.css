@@ -1,1 +1,62 @@
-/* You can add global styles to this file, and also import other style files */
+.bg-light {
+  background-color: #273c75 !important;
+
+}
+
+.btn {
+  background-color: #c0392b !important;
+  border: 1px solid #c0392b;
+}
+
+.nav-link {
+  color: #ffff !important;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+p {
+  font-size: 0.8rem;
+}
+
+.card-body {
+  background-color: #dfe6e9 !important;
+  color: rgb(0, 0, 0) !important;
+}
+
+.book-div {
+  padding: 80px 0;
+}
+
+.card-img-top {
+  height: 210px !important;
+}
+
+.modal .modal-dialog {
+  position: absolute;
+  width: 100%;
+  right: 10px;
+  bottom: 10px;
+  margin: 0;
+}
+
+.modal .modal-dialog {
+  top: 10px;
+  right: 10px;
+}
+
+.navbar-toggler {
+  border: 1px solid #ffffff;
+}
+
+.navbar-toggler i {
+  color: #ffffff;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+}
+
+th {
+  width: 0.3em;
+}
